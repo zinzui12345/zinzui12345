@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there OwO 🍓
 
 <!--
 **zinzui12345/zinzui12345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![1000405640](https://github.com/user-attachments/assets/7140d273-b142-49ca-be8f-d5b51bc0fa23)
